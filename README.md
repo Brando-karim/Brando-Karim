@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Karim Benjelloul A Fullstack Developer<br><br>🌌 Just focused on studying and sharpening my skills right now.<br><br>🌱 I’m currently learning Next.js — diving deeper into the world of modern web dev.<br><br>
-![Spinning GIF](https://i.imgur.com/2j3lFQg.gif)
+![Spinning GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazU2a2Y4Y2pkbHJjNXRwb3V5azZyajFrY2J3MGFxazZvdDR4Ym4wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ed5ikYyyLoWVI0Ko5f/giphy.gif)
 
 
 ## 🌐 Socials:
