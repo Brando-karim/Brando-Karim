@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Karim Benjelloul A Fullstack Developer<br><br>🌌 Just focused on studying and sharpening my skills right now.<br><br>🌱 I’m currently learning Next.js — diving deeper into the world of modern web dev.<br><br>
-![Spinning GIF](https://media.tenor.com/bnmvZt2fcYAAAAAi/spinning-spin.gif) <!-- Or your repo gif link -->
+![Spinning GIF]([https://media.tenor.com/bnmvZt2fcYAAAAAi/spinning-spin.gif](https://tenor.com/view/spinning-spin-rotate-rotating-twirl-gif-27369778))
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/karim-ben-jelloul-623765270) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Brando-Karim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28795772) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Elrik_Karim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karimbenjelloul1@gmail.com) 
