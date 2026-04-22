@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/karim-ben-jelloul-623765270) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Brando-Karim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28795772) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Elrik_Karim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karimbenjelloul1@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/karim-ben-jelloul-623765270) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Brando-Karim-7294/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28795772) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Elrik_Karim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karimbenjelloul1@gmail.com) 
 
 ![Spinning GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazU2a2Y4Y2pkbHJjNXRwb3V5azZyajFrY2J3MGFxazZvdDR4Ym4wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ed5ikYyyLoWVI0Ko5f/giphy.gif)
 # 💻 Tech Stack:
