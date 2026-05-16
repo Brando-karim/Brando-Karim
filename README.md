@@ -1,14 +1,16 @@
 <div align="center">
 
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg4OTk0NzcsIm5iZiI6MTc3ODg5OTE3NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTE2VDAyMzkzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0MGYwMmY2MTNjM2FlZjRmMDI1MzRhZTM5YTZkNjI5ZDFkNTkwNGJiZDRkZjJlMDdiZjc3MDk0ZGUyYzFmOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.412wVns1DiTsFNv94hLXfD2rSklnygBxqIPqs4Wk0NA" width="100%" alt="coding banner gif"/>
+
 # Hi there, I'm Benjelloun Karim 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;JavaScript+%7C+PHP+%7C+Python;React+%7C+Next.js+%7C+Laravel;Always+learning+new+things" alt="Typing SVG" />
+### Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;JavaScript+%7C+PHP+%7C+Python;React+%7C+Next.js+%7C+Laravel" alt="Typing SVG" />
 
 <br/>
 
 *Building robust, scalable, and elegant software solutions.*
-
----
 
 </div>
 
@@ -19,7 +21,7 @@
 - 🎓 **Background:** Software Engineering, specializing in Full-Stack Web Development
 - 🎯 **Mission:** Crafting clean, performant, and user-friendly applications from front to back
 - 🔧 **Focus Areas:** Modern Web Technologies, REST APIs, Cloud Deployment & UI/UX Design
-- 🎮 **Beyond the Code:** When I'm offline, you'll find me exploring immersive gaming worlds, testing out new tech gadgets, or creating digital content
+- 🎮 **Beyond the Code:** When I'm offline, you'll find me gaming, exploring new tech, or creating content
 
 ---
 
@@ -60,8 +62,9 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![PostgreSql](https://img.shields.io/badge/PostgreSql-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![TSQL](https://img.shields.io/badge/TSQL-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/PostgresSQL-4479A1.svg?style=flat&logo=PostgresSQL&logoColor=white)
+![TSQL](https://img.shields.io/badge/TSQL-%234ea94b.svg?style=flat&logo=TSQL&logoColor=white)
+
 ### ☁️ Hosting & DevOps
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
