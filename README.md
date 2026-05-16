@@ -62,9 +62,8 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgresSQL-4479A1.svg?style=flat&logo=PostgresSQL&logoColor=white)
-![TSQL](https://img.shields.io/badge/TSQL-%234ea94b.svg?style=flat&logo=TSQL&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ### ☁️ Hosting & DevOps
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
