@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg4OTk0NzcsIm5iZiI6MTc3ODg5OTE3NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTE2VDAyMzkzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0MGYwMmY2MTNjM2FlZjRmMDI1MzRhZTM5YTZkNjI5ZDFkNTkwNGJiZDRkZjJlMDdiZjc3MDk0ZGUyYzFmOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.412wVns1DiTsFNv94hLXfD2rSklnygBxqIPqs4Wk0NA" width="100%" alt="coding banner gif"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg4OTk0NzcsIm5iZiI6MTc3ODg5OTE3NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTE2VDAyMzkzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0MGYwMmY2MTNjM2FlZjRmMDI1MzRhZTM5YTZkNjI5ZDFkNTkwNGJiZDRkZjJlMDdiZjc3MDk0ZGUyYzFmOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.412wVns1DiTsFNv94hLXfD2rSklnygBxqIPqs4Wk0NA" width="600" alt="coding banner gif"/>
 
 # Hi there, I'm Benjelloun Karim 👋
 
 ### Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;JavaScript+%7C+PHP+%7C+Python;React+%7C+Next.js+%7C+Laravel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;JavaScript+%7C+PHP+%7C+Python;React+%7C+Next.js+%7C+Laravel;Always+learning+new+things" alt="Typing SVG" />
 
 <br/>
 
@@ -84,19 +84,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brando-Karim&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brando-Karim&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Brando-Karim&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
