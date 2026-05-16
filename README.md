@@ -85,11 +85,11 @@
 
 <div align="center">
 
-![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjelloulkarim&show_icons=true&theme=tokyonight&hide_border=true)
+![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brando-Karim&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjelloulkarim&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brando-Karim&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=benjelloulkarim&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Brando-Karim&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=benjelloulkarim.benjelloulkarim)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Brando-Karim.Brando-Karim)
 
 *Thanks for stopping by! Feel free to reach out — let's build something great together.* 🚀
 
