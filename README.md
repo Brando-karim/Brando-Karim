@@ -4,7 +4,7 @@
 
 # Hi there, I'm Benjelloun Karim 👋
 
-### Software Engineer
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;JavaScript+%7C+PHP+%7C+Python;React+%7C+Next.js+%7C+Laravel;Always+learning+new+things" alt="Typing SVG" />
 
